@@ -184,3 +184,11 @@ Specify the callback function for invoking request method.
 Specify the common callback function for the error response.  
 If the error response is handled by request#error or on#error, this handler doesn't run.
 
+# License
+MIT
+
+We have an commercial use version of this application officially supported.
+
+Please contact us for details.
+
+info@flect.co.jp
